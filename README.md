@@ -44,13 +44,16 @@ Currently architecting and maintaining **Quikpl**, an enterprise management plat
 *   **Payment Infrastructure Migration:** Orchestrated a strategic migration from Midtrans to Xendit, handling **thousands of automated payment reconciliations monthly** with improved transaction success rates.
 *   **Hybrid Payment Gateway:** Integrated BTCPayServer for non-custodial cryptocurrency payments alongside traditional fiat gateways.
 *   **Administrative Excellence:** Developed a sophisticated multi-cluster administrative interface using Filament v4, enabling complex data management and reporting.
-    *   **Observability & Reliability:** Implemented comprehensive system monitoring using Prometheus and optimized background processing via Redis-backed queue workers.
+*   **Observability & Reliability:** Implemented comprehensive system monitoring using Prometheus and optimized background processing via Redis-backed queue workers.
 
 ---
 
 ### Open Source Contributions
 
 #### 📦 Filament Image Optimizer
+![Downloads](https://img.shields.io/packagist/dt/danihidayatx/image-optimizer?style=flat-square&color=818cf8)
+![Version](https://img.shields.io/packagist/v/danihidayatx/image-optimizer?style=flat-square&color=818cf8)
+
 *A high-performance FilamentPHP plugin for on-the-fly image optimization and resizing.*
 
 *   **Impact:** Solves critical storage and performance issues by compressing images before they reach the database or S3.
