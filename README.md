@@ -5,8 +5,8 @@
 
 Specializing in the development of high-performance, multi-tenant SaaS architectures and enterprise-grade web applications. Expert in the Laravel ecosystem with a focus on scalable systems, real-time data processing, and robust financial integrations.
 
-[![Resume EN](https://img.shields.io/badge/Resume-EN-0f172a?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/Dani_Hidayat_Resume_EN.pdf)
-[![Resume ID](https://img.shields.io/badge/Resume-ID-1e293b?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/Dani_Hidayat_Resume_ID.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-0f172a?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/pdf/Dani_Hidayat_Resume_EN.pdf)
+[![Resume ID](https://img.shields.io/badge/Resume-ID-1e293b?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/pdf/Dani_Hidayat_Resume_ID.pdf)
 [![Email](https://img.shields.io/badge/Email-dani@quikpl.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani@quikpl.com)
 [![GitHub](https://img.shields.io/badge/GitHub-danihidayatx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danihidayatx)
 ---
