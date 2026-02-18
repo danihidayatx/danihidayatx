@@ -5,6 +5,10 @@
 
 Specializing in the development of high-performance, multi-tenant SaaS architectures and enterprise-grade web applications. Expert in the Laravel ecosystem with a focus on scalable systems, real-time data processing, and robust financial integrations.
 
+[![Resume EN](https://img.shields.io/badge/Resume-EN-0f172a?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/Dani_Hidayat_Resume_EN.pdf)
+[![Resume ID](https://img.shields.io/badge/Resume-ID-1e293b?style=for-the-badge)](https://github.com/danihidayatx/danihidayatx/raw/main/resumes/Dani_Hidayat_Resume_ID.pdf)
+[![Email](https://img.shields.io/badge/Email-dani@quikpl.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dani@quikpl.com)
+[![GitHub](https://img.shields.io/badge/GitHub-danihidayatx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danihidayatx)
 ---
 
 ### Core Competencies
@@ -25,8 +29,8 @@ Specializing in the development of high-performance, multi-tenant SaaS architect
 *   **Infrastructure:** Docker, Kubernetes, CI/CD Pipelines (GitLab/GitHub), Prometheus Monitoring.
 
 **Financial Engineering**  
-![Xendit](https://img.shields.io/badge/Xendit-171717?style=for-the-badge)
-![Midtrans](https://img.shields.io/badge/Midtrans-003D78?style=for-the-badge)
+![Xendit](https://img.shields.io/badge/Xendit-171717?style=for-the-badge&logo=xendit&logoColor=white)
+![Midtrans](https://img.shields.io/badge/Midtrans-003D78?style=for-the-badge&logo=midtrans&logoColor=white)
 ![BTCPay](https://img.shields.io/badge/BTCPay-51B13E?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 *   Complex Payment Gateway Integrations (Xendit, Midtrans, BTCPayServer).
@@ -67,9 +71,3 @@ Currently architecting and maintaining **Quikpl**, an enterprise management plat
 *   **Test-Driven Development:** Prioritizing system stability through comprehensive automated testing (PestPHP/TDD).
 *   **Design Patterns:** Strict adherence to SOLID principles and Clean Architecture to ensure long-term maintainability.
 *   **Operational Excellence:** Treating infrastructure as code and maintaining high visibility into system performance.
-
----
-
-### Professional Network
-
-*   **Email:** dani@quikpl.com
